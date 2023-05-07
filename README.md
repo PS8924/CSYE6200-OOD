@@ -1,1 +1,1 @@
-# CSYE6200-OOD
+# CSYE6200-Object Oriented Design all assignments
